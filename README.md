@@ -11,6 +11,8 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/fala_diniz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/samuel-diniz-matias-1447a5171/" rel="nofollow">
+<img src="https://camo.githubusercontent.com/c00f87a……652d626…" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;">
 </div> 
   
   ### Main skills:
